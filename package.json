@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-cli-app",
+  "version": "1.0.0",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "nodejs-cli-app": "cli.js"
+  },
+  "dependencies": {
+    "open": "^0.0.5",
+    "yargs": "^7.0.2"
+  }
+}
